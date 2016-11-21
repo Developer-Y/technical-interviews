@@ -3,6 +3,9 @@
 ### How to Prepare
 - [Ace the coding interview, every time](https://www.linkedin.com/pulse/20141120061048-6976444-ace-the-coding-interview-every-time)
 - [Get that job at Google](http://steve-yegge.blogspot.in/2008/03/get-that-job-at-google.html)
+- ['How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft' by Sean Lee](https://www.youtube.com/watch?v=YJZCUhxNCv8)
+- [Gayle L McDowell - Cracking The Coding Interview](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
+- [Moishe Lettvin - What I Learned Doing 250 Interviews at Google](https://www.youtube.com/watch?v=r8RxkpUvxK0)
 - [Preparing for your Software Engineering Interview at Facebook](https://www.facebook.com/careers/life/preparing-for-your-software-engineering-interview-at-facebook)
 - [How to ace a Developer Phone Interview - Palantir](https://www.palantir.com/2012/09/how-to-ace-a-phone-interview/)
 - [The Coding Interview - Palantir](https://www.palantir.com/2011/10/the-coding-interview/)
@@ -19,6 +22,13 @@
 - [Effective Whiteboarding during Programming Interviews](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)
 - [Blog - Technical interview at Amazon (SDE) and Microsoft (Program Manager)](http://blog.mattgoyer.com/technical-interview-at-amazon-sde-and-microsoft-program-manager/)
 - [How to prepare for technical interviews](https://dandreamsofcoding.com/2012/11/25/how-to-prepare-for-technical-interviews/)
+- [Coding Interviews and the Importance of Perfection](http://www.gayle.com/blog/2016/3/coding-interviews-and-the-importance-of-perfection)
+- [How to get a job at Google, interview questions, hiring process](http://dondodge.typepad.com/the_next_big_thing/2010/09/how-to-get-a-job-at-google-interview-questions-hiring-process.html)
+- [The Five Essential Phone-Screen Questions ](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions/)
+- [Google sent me a “what to know in on-site interviews” email. Here it is.](https://swizec.com/blog/google-sent-me-a-what-to-know-in-on-site-interviews-email-here-it-is/swizec/4251)
+- [Passing the Google interview as a software engineer](https://www.youtube.com/watch?v=7Lz6z9k_HvE)
+- [Gayle Laakmann McDowell visits UCSD - Sponsored by WIC](https://www.youtube.com/watch?v=x7ECVF_GEA8)
+
 
 ### Algorithms and Data Structures (Practice sites)
 - [InterviewBit](https://www.interviewbit.com/) ([All Questions](https://www.interviewbit.com/all-problem-list/?ref=landing-page))
@@ -27,6 +37,8 @@
 - [Leetcode](https://leetcode.com/)
 
 ### Algorithms and Data Structures (Interview questions)
+- [Tushar Roy YouTube channel](https://www.youtube.com/user/tusharroy2525/playlists)
+- [saurabhschool YouTube channel](https://www.youtube.com/user/saurabhschool/playlists)
 - [Career Cup](https://www.careercup.com/)
 - [Hacking a Google Interview - MIT](http://courses.csail.mit.edu/iap/interview/materials.php)
 - [DSAlgo](http://www.dsalgo.com/2013/02/index.php.html)
@@ -39,6 +51,7 @@
 - [Scalable-Software-Architecture](https://github.com/Developer-Y/Scalable-Software-Architecture)
 - [Hired in Tech - System Design](https://www.hiredintech.com/courses/system-design)
 - [Gainlo Blog - System Design](http://blog.gainlo.co/)
+- [High Scalability](http://highscalability.com/)
 
 ### Mock Interviews
 - [Free online mock Interviews](https://www.pramp.com/)
@@ -74,3 +87,60 @@
 - [Topcoder Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/)
 - [CS 97SI: Introduction to Programming Contests - Stanford University](http://www.stanford.edu/class/cs97si/)
 - [Hackerearth Tutorials](https://learn.hackerearth.com/tutorials/)
+- [Big-O Cheat Sheet](http://bigocheatsheet.com/)
+- [The Technical Interview Cheat Sheet](https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)
+
+
+### Books
+- Cracking the Coding Interview by Gayle Laakmann McDowell
+- Programming Interviews Exposed: Secrets to Landing Your Next Job
+- The Algorithm Design Manual 2nd Edition by Steven S Skiena 
+- Elements of Programming Interviews by Adnan Aziz, Tsung-Hsien Lee, Amit Prakash(separate Java edition)
+- Programming Pearls (2nd Edition) by Jon Bentley
+
+### Resume Tips
+- [This Is What A GOOD Resume Should Look Like - CareerCup](https://www.careercup.com/resume)
+- [This résumé landed me interviews at Google, BuzzFeed, and more than 20 top startups](http://www.businessinsider.com/this-rsum-landed-me-interviews-at-google-buzzfeed-and-more-than-20-top-startups-2016-10)
+- [Ask Aerotek: Recruiters Offer Insider's Tips on How to Make Your Resume More Marketable](https://www.aerotek.com/jobseekers/tools-resources/2016/03/ask-aerotek-recruiters-offer-inside-tips-on-how-to-make-your-resume-more-marketable)
+- [10 Tips for Writing a Professional Resume](https://www.recruiter.com/i/10-tips-for-writing-a-professional-resume/)
+- [Write a Resumé that Travels Across Countries and Cultures](https://hbr.org/2012/05/write-a-resume-that-travels-ac)
+- [Final Cut: Words to Strike from Your Resume](http://www.forbes.com/sites/dailymuse/2011/11/04/final-cut-words-to-strike-from-your-resume/)
+- [10 Things To Remove From Your Resume](http://ht.ly/aj0OC)
+- [12 Myths About Writing Your Resume](http://www.forbes.com/sites/jacquelynsmith/2013/04/01/12-myths-about-writing-your-resume/)
+- [50 resume no-nos](http://blog.timesunion.com/careers/50-resume-no-nos/1441/)
+- [The Biggest Mistakes I See on Resumes, and How to Correct Them](https://www.linkedin.com/pulse/20140917045901-24454816-the-5-biggest-mistakes-i-see-on-resumes-and-how-to-correct-them)
+
+
+### Job portals
+- https://www.naukri.com/
+- www.linkedin.com
+- https://whoishiring.io/
+- https://news.ycombinator.com/submitted?id=whoishiring
+- http://www.monster.com/
+- http://www.dice.com/
+- https://angel.co/
+- https://www.glassdoor.com/
+- https://www.cybercoders.com/
+- http://www.simplyhired.com/
+- http://www.bullhornreach.com/jobs/
+- https://www.careerbliss.com/
+- http://www.indeed.com/
+- http://www.hirist.com/
+- http://www.timesjobs.com/
+
+### General Tips
+- [Recruiter Tips & Tricks: Non-Technical Interview Prep](https://students.googleblog.com/2011/11/recruiter-tips-tricks-non-technical.html)
+- [Recruiter Tips & Tricks: How to talk with recruiters](https://students.googleblog.com/2011/10/recruiter-tips-tricks-how-to-talk-with.html)
+- [Recruiter Tips & Tricks: starting your search](https://students.googleblog.com/2011/09/recruiter-tips-tricks-starting-your.html)
+- [Recruiter Tips & Tricks: preparing your resume](https://students.googleblog.com/2011/09/recruiter-tips-tricks-preparing-your.html)
+- [The Truth About Interviewing - STEVE YEGGE](http://steve-yegge.blogspot.in/2006/03/truth-about-interviewing.html)
+- [The Most Painful Job Search Mistakes People Keep Making (Again, and Again)](https://www.linkedin.com/pulse/most-painful-job-search-mistakes-people-keep-making-again-marr)
+
+
+### Additional github references
+- [google-interview-university](https://github.com/jwasham/google-interview-university)
+- [andreis interview](https://github.com/andreis/interview)
+- [mission-peace interview](https://github.com/mission-peace/interview)
+- [what-happens-when](https://github.com/alex/what-happens-when)
+- [careercup CtCI-6th-Edition](https://github.com/careercup/CtCI-6th-Edition)
+- [Technical-Interview-Megarepo](https://github.com/jdsutton/Technical-Interview-Megarepo)
