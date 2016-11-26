@@ -46,6 +46,7 @@
 - [Amazon or Microsoft programming interview questions and solutions](http://ms-amazon.blogspot.in/)
 - [Hackerearth - Interview Questions](https://learn.hackerearth.com/tags/Interview-Question/posts)
 - [Lintcode - Problems](http://www.lintcode.com/en/problem/)
+- [Leetcode Video Tutorials](https://www.youtube.com/playlist?list=PLGvfHSgImk4ZR3v2drDwHrmwu2a645sxL)
 
 ### System Design and Scalability
 - [Scalable-Software-Architecture](https://github.com/Developer-Y/Scalable-Software-Architecture)
@@ -84,19 +85,30 @@
 
 ### Tutorials
 - [Skiena's Programming Challenges Lectures](http://www.algorist.com/programming_challenges/)
+- [CodeChef's Indian Programming Camp 2016 - videos](https://www.youtube.com/playlist?list=PLi0ZM-RCX5nsTc2Z6woHr5qoF6n3b-thO)
+- [Gatech Programming Competition Lectures - videos](https://www.youtube.com/playlist?list=PL06D0AE2C26C9123B)
+- [Competitive Programming In Java - videos](https://www.youtube.com/playlist?list=PLMCXHnjXnTnsWU7jYp9XCKPW8ayl6D8fb)
+- [Amrita Infosys Programming Contest Camp - videos](https://www.youtube.com/playlist?list=PL713C10F05D6BB7BF)
+- [ACM/ICPC Training: For Beginner - videos](https://www.youtube.com/playlist?list=PLr7bO3PQtaB98icc2r80iN4Eb4hLNVdUF)
 - [Topcoder Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/)
 - [CS 97SI: Introduction to Programming Contests - Stanford University](http://www.stanford.edu/class/cs97si/)
 - [Hackerearth Tutorials](https://learn.hackerearth.com/tutorials/)
 - [Big-O Cheat Sheet](http://bigocheatsheet.com/)
 - [The Technical Interview Cheat Sheet](https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)
+- [awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming)
 
 
-### Books
+### Books on technical interviews
 - Cracking the Coding Interview by Gayle Laakmann McDowell
 - Programming Interviews Exposed: Secrets to Landing Your Next Job
 - The Algorithm Design Manual 2nd Edition by Steven S Skiena 
 - Elements of Programming Interviews by Adnan Aziz, Tsung-Hsien Lee, Amit Prakash(separate Java edition)
 - Programming Pearls (2nd Edition) by Jon Bentley
+
+### Books on competitive programming
+- Programming Challenges: The Programming Contest Training Manual, by Steven Skiena and Miguel Revilla
+- Competitive Programming, by Steven and Felix Halim ([1st edition free download](http://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf))
+- The Hitchhiker’s Guide to the Programming Contests, by Nite Nimajneb ([PDF](http://comscigate.com/Books/contests/icpc.pdf))
 
 ### Resume Tips
 - [This Is What A GOOD Resume Should Look Like - CareerCup](https://www.careercup.com/resume)
