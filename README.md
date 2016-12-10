@@ -108,7 +108,8 @@
 ### Books on competitive programming
 - Programming Challenges: The Programming Contest Training Manual, by Steven Skiena and Miguel Revilla
 - Competitive Programming, by Steven and Felix Halim ([1st edition free download](http://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf))
-- The Hitchhiker’s Guide to the Programming Contests, by Nite Nimajneb ([PDF](http://comscigate.com/Books/contests/icpc.pdf))
+- [The Hitchhiker’s Guide to the Programming Contests, by Nite Nimajneb - PDF](http://comscigate.com/Books/contests/icpc.pdf)
+- [Art of Programming Contest - PDF](https://www.comp.nus.edu.sg/~stevenha/database/Art_of_Programming_Contest_SE_for_uva.pdf)
 
 ### Resume Tips
 - [This Is What A GOOD Resume Should Look Like - CareerCup](https://www.careercup.com/resume)
