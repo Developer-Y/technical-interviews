@@ -53,6 +53,7 @@
 - [Hired in Tech - System Design](https://www.hiredintech.com/courses/system-design)
 - [Gainlo Blog - System Design](http://blog.gainlo.co/)
 - [High Scalability](http://highscalability.com/)
+- [System Design Primer](https://github.com/donnemartin/system-design-primer)
 
 ### Mock Interviews
 - [Free online mock Interviews](https://www.pramp.com/)
@@ -110,6 +111,7 @@
 - Competitive Programming, by Steven and Felix Halim ([1st edition free download](http://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf))
 - [The Hitchhiker’s Guide to the Programming Contests, by Nite Nimajneb - PDF](http://comscigate.com/Books/contests/icpc.pdf)
 - [Art of Programming Contest - PDF](https://www.comp.nus.edu.sg/~stevenha/database/Art_of_Programming_Contest_SE_for_uva.pdf)
+- [Competitive Programmer's Handbook - Antti Laaksonen](https://cses.fi/book.html)
 
 ### Resume Tips
 - [This Is What A GOOD Resume Should Look Like - CareerCup](https://www.careercup.com/resume)
