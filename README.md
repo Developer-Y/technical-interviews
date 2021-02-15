@@ -47,6 +47,7 @@
 - [Hackerearth - Interview Questions](https://learn.hackerearth.com/tags/Interview-Question/posts)
 - [Lintcode - Problems](http://www.lintcode.com/en/problem/)
 - [Leetcode Video Tutorials](https://www.youtube.com/playlist?list=PLGvfHSgImk4ZR3v2drDwHrmwu2a645sxL)
+- [Top 40 Data Structure Interview Questions](https://www.interviewbit.com/data-structure-interview-questions/)
 
 ### System Design and Scalability
 - [Scalable-Software-Architecture](https://github.com/Developer-Y/Scalable-Software-Architecture)
@@ -54,6 +55,7 @@
 - [Gainlo Blog - System Design](http://blog.gainlo.co/)
 - [High Scalability](http://highscalability.com/)
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
+- [System Design - InterviewBit](https://www.interviewbit.com/courses/system-design/)
 
 ### Mock Interviews
 - [Free online mock Interviews](https://www.pramp.com/)
