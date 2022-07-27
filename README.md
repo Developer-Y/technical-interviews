@@ -126,6 +126,7 @@
 - [12 Myths About Writing Your Resume](http://www.forbes.com/sites/jacquelynsmith/2013/04/01/12-myths-about-writing-your-resume/)
 - [50 resume no-nos](http://blog.timesunion.com/careers/50-resume-no-nos/1441/)
 - [The Biggest Mistakes I See on Resumes, and How to Correct Them](https://www.linkedin.com/pulse/20140917045901-24454816-the-5-biggest-mistakes-i-see-on-resumes-and-how-to-correct-them)
+- [How to Build Software Engineer Resume – Full Guide and Examples] (https://www.interviewbit.com/blog/software-engineer-resume/) 
 
 
 ### Job portals
