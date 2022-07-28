@@ -28,6 +28,7 @@
 - [Google sent me a “what to know in on-site interviews” email. Here it is.](https://swizec.com/blog/google-sent-me-a-what-to-know-in-on-site-interviews-email-here-it-is/swizec/4251)
 - [Passing the Google interview as a software engineer](https://www.youtube.com/watch?v=7Lz6z9k_HvE)
 - [Gayle Laakmann McDowell visits UCSD - Sponsored by WIC](https://www.youtube.com/watch?v=x7ECVF_GEA8)
+- [Technical Interview Preparation Guide](https://www.interviewbit.com/technical-interview-questions/)
 
 
 ### Algorithms and Data Structures (Practice sites)
@@ -35,6 +36,7 @@
 - [Geeks for Geeks](http://www.geeksforgeeks.org/) ([Practice](http://www.practice.geeksforgeeks.org/))
 - [Hired in Tech - Algorithms](https://www.hiredintech.com/learn-algorithms) 
 - [Leetcode](https://leetcode.com/)
+- [Data Structures and Algoirthms -Practice Problems with Concepts](https://www.interviewbit.com/courses/programming/)
 
 ### Algorithms and Data Structures (Interview questions)
 - [Tushar Roy YouTube channel](https://www.youtube.com/user/tusharroy2525/playlists)
@@ -48,6 +50,7 @@
 - [Lintcode - Problems](http://www.lintcode.com/en/problem/)
 - [Leetcode Video Tutorials](https://www.youtube.com/playlist?list=PLGvfHSgImk4ZR3v2drDwHrmwu2a645sxL)
 - [Top 40 Data Structure Interview Questions](https://www.interviewbit.com/data-structure-interview-questions/)
+- [Algorithm Interview Questions](https://www.interviewbit.com/algorithm-interview-questions/)
 
 ### System Design and Scalability
 - [Scalable-Software-Architecture](https://github.com/Developer-Y/Scalable-Software-Architecture)
@@ -56,9 +59,11 @@
 - [High Scalability](http://highscalability.com/)
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [System Design - InterviewBit](https://www.interviewbit.com/courses/system-design/)
+- [System Design Interview Questions](https://www.interviewbit.com/system-design-interview-questions/)
 
 ### Mock Interviews
 - [Free online mock Interviews](https://www.pramp.com/)
+- [Mock Interview -InterviewBit](https://www.interviewbit.com/mock-interview/)
 
 ### Competitve Programming (Practice sites & Online Judges)
 - [Topcoder](https://www.topcoder.com/)
