@@ -36,6 +36,7 @@
 - [Geeks for Geeks](http://www.geeksforgeeks.org/) ([Practice](http://www.practice.geeksforgeeks.org/))
 - [Hired in Tech - Algorithms](https://www.hiredintech.com/learn-algorithms) 
 - [Leetcode](https://leetcode.com/)
+- [CodeStudio](https://www.codingninjas.com/codestudio)
 - [Data Structures and Algoirthms -Practice Problems with Concepts](https://www.interviewbit.com/courses/programming/)
 
 ### Algorithms and Data Structures (Interview questions)
@@ -108,11 +109,11 @@
 
 
 ### Books on technical interviews
-- Cracking the Coding Interview by Gayle Laakmann McDowell
+- [Cracking the Coding Interview by Gayle Laakmann McDowell](http://englishonlineclub.com/pdf/Cracking%20the%20Coding%20Interview%20-%20189%20Programming%20Questions%20and%20Solutions%20(6th%20Edition)%20[EnglishOnlineClub.com].pdf)
 - Programming Interviews Exposed: Secrets to Landing Your Next Job
-- The Algorithm Design Manual 2nd Edition by Steven S Skiena 
+- [The Algorithm Design Manual 2nd Edition by Steven S Skiena](https://mimoza.marmara.edu.tr/~msakalli/cse706_12/SkienaTheAlgorithmDesignManual.pdf) 
 - Elements of Programming Interviews by Adnan Aziz, Tsung-Hsien Lee, Amit Prakash(separate Java edition)
-- Programming Pearls (2nd Edition) by Jon Bentley
+- [Programming Pearls (2nd Edition) by Jon Bentley](https://tfetimes.com/wp-content/uploads/2015/04/ProgrammingPearls2nd.pdf)
 
 ### Books on competitive programming
 - Programming Challenges: The Programming Contest Training Manual, by Steven Skiena and Miguel Revilla
