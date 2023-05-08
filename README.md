@@ -105,7 +105,7 @@
 - [The Technical Interview Cheat Sheet](https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)
 - [awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming)
 - [Scaler - Programming Tutorials](https://www.scaler.com/topics/) 
-
+- [Python Tutorial: A Comprehensive Guide for Beginners](https://wiingy.com/learn/python/python-tutorial/) 
 
 ### Books on technical interviews
 - Cracking the Coding Interview by Gayle Laakmann McDowell
