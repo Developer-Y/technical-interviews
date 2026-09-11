@@ -60,6 +60,7 @@
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [System Design - InterviewBit](https://www.interviewbit.com/courses/system-design/)
 - [System Design Interview Questions](https://www.interviewbit.com/system-design-interview-questions/)
+- [InterviewLegend](https://interviewlegend.com/guides/system-design) - system design interview walkthroughs organized by company
 
 ### Mock Interviews
 - [Free online mock Interviews](https://www.pramp.com/)
