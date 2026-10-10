@@ -65,6 +65,7 @@
 ### Mock Interviews
 - [Free online mock Interviews](https://www.pramp.com/)
 - [Mock Interview -InterviewBit](https://www.interviewbit.com/mock-interview/)
+- [LogicWiz Interviews - free AI mock interviews](https://interviews.logicwiz.ai/)
 
 ### Competitve Programming (Practice sites & Online Judges)
 - [Topcoder](https://www.topcoder.com/)
