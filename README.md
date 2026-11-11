@@ -65,6 +65,7 @@
 ### Mock Interviews
 - [Free online mock Interviews](https://www.pramp.com/)
 - [Mock Interview -InterviewBit](https://www.interviewbit.com/mock-interview/)
+- [Aethel](https://aethel.pro/practice) - Free practice for AI screening interviews by developer role and level. No account needed
 
 ### Competitve Programming (Practice sites & Online Judges)
 - [Topcoder](https://www.topcoder.com/)
